@@ -1,14 +1,14 @@
 # Login Authentication Web App
 
-A lightweight and secure login authentication system built using HTML, CSS, and JavaScript. This project demonstrates how to create user registration, login, and protected page features for a basic web application.[1]
+A lightweight and secure login authentication system built using HTML, CSS, and JavaScript. This project demonstrates how to create user registration, login, and protected page features for a basic web application.
 
 ## Purpose
 
-This project showcases a client-side authentication workflow. Users can register a new account, sign in, and access secure content, making it ideal for learning web authentication fundamentals and the basics of protecting user data.[1]
+This project showcases a client-side authentication workflow. Users can register a new account, sign in, and access secure content, making it ideal for learning web authentication fundamentals and the basics of protecting user data.
 
 ## Highlights
 
-- User registration with unique username/email and password[1]
+- User registration with unique username/email and password
 - Login form for existing users
 - Simple authentication logic using JavaScript (no backend)
 - Protected content only accessible after login
@@ -25,7 +25,7 @@ This project showcases a client-side authentication workflow. Users can register
 
 ## Implementation Steps
 
-1. Designed registration and login forms using semantic HTML[1]
+1. Designed registration and login forms using semantic HTML
 2. Styled forms and secure pages with modern CSS for clarity and usability
 3. Coded user input validation and simple in-browser storage for credentials using JavaScript
 4. Managed authentication state for page protection post-login
