@@ -2,11 +2,11 @@
 
 A lightweight and secure login authentication system built using HTML, CSS, and JavaScript. This project demonstrates how to create user registration, login, and protected page features for a basic web application.
 
-## Purpose
+## Objective
 
 This project showcases a client-side authentication workflow. Users can register a new account, sign in, and access secure content, making it ideal for learning web authentication fundamentals and the basics of protecting user data.
 
-## Highlights
+## Features
 
 - User registration with unique username/email and password
 - Login form for existing users
@@ -15,7 +15,7 @@ This project showcases a client-side authentication workflow. Users can register
 - Option to log out and clear sessions
 - Responsive design for desktop and mobile devices
 
-## Technologies Used
+## Tools Used
 
 - **HTML5** – for building accessible forms and webpage structure
 - **CSS3** – to provide clean layouts and responsive styling
@@ -23,7 +23,7 @@ This project showcases a client-side authentication workflow. Users can register
 - **Visual Studio Code** – as the coding environment
 - **Web Browser** – for testing and usage
 
-## Implementation Steps
+## Steps Performed
 
 1. Designed registration and login forms using semantic HTML
 2. Styled forms and secure pages with modern CSS for clarity and usability
